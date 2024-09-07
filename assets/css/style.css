@@ -1,6 +1,6 @@
 #container-fluid1 {
     position: relative;
-    background-image: url('/assets/img/pexels-tima-miroshnichenko-5439371.jpg');
+    background-image: url('assets/img/pexels-tima-miroshnichenko-5439371.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -18,7 +18,7 @@
 
 #container-fluid4{
   background-color: #fbfbfb;
-  background-image: url('/assets/img/ooorganize\ \(4\).svg');
+  background-image: url('assets/img/ooorganize\ \(4\).svg');
  }
 
  #container-fluid4-a{
